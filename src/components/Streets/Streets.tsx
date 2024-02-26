@@ -4,7 +4,6 @@ import { StreetDataType } from "../../types/types";
 import { getStreets } from "../../api/getFromUrl";
 import { Houses } from "./Houses/Houses";
 
-// import classes from "./CityContainer.module.css";
 import classes from "./Streets.module.css";
 
 const Streets = () => {
